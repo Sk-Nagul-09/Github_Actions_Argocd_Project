@@ -141,3 +141,24 @@ Hi all, this is Sk Nagul. I am an AWS DevOps enthusiast with hands-on experience
 
 🔸 Monitoring with Prometheus & Grafana
 
+
+# 📸 Screenshots
+
+## 🖥️ Application Output
+
+
+![Application Output](screenshot/<img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/de59970e-0719-4607-9640-35f46d6462e1" />)
+
+## 🖥️ Argo CD Application View
+
+
+![Argo CD Application View](screenshot/<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/43b2e2ea-ab24-42cd-9a83-c7b1dc4f298d" />
+)
+
+## 🖥️ Kubernetes Cluster Nodes
+
+
+![Kubernetes Cluster Nodes](screenshot/<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/7cef8ff1-7379-4256-a712-47d59ddb6190" />
+)
+
+
