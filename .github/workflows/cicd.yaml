@@ -86,5 +86,5 @@ jobs:
       # Sync with ArgoCD
       - name: Trigger ArgoCD Sync
         run: |
-          argocd login ${{ secrets.ARGOCD_SERVER }} --username admin --password ${{ secrets.ARGOCD_PASSWORD }} --insecure
+          argocd login ${{ secrets.ARGOCD_SERVER }} --username admin --password ${{ secrets.ARGOCD_PASSWORD }} --insecure --grpc-web
           argocd app sync prodapp
