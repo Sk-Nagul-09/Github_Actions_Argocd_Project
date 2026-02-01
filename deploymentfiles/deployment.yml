@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: webcont
-          image: nagul09/cicd-e-t-end-pro:6
+          image: nagul09/cicd-e-t-end-pro:7
 
           ports:
             - containerPort: 8080
