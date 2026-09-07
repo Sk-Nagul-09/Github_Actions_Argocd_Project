@@ -15,7 +15,7 @@ This project demonstrates how a **real-world DevOps pipeline** works using **Git
 - 🔹 Git as the single source of truth  
 - 🔹 Fully automated image versioning  
 - 🔹 Kubernetes-ready production workflow  
-
+ 
 ---
 
 ## 🔄 End-to-End Workflow
